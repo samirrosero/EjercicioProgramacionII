@@ -1,4 +1,13 @@
 # EjercicioProgramacionII
-Ejercicios de trabajo- Valeri Solis, Samir Rosero
-- Trabajo de calculadora
-- Trabajo de programacion.
+
+Este repositorio contiene los ejercicios de programacion en Java del taller de nivelacion
+
+## Contenido
+
+- Calculadora Básica
+- Contador de Vocales y Consonantes
+- Invertir una cadena
+
+## Valeri Solis y Samir Rosero
+## TECNOLOGIA EN SISTEMAS DE INFORMACION
+## 4 SEMESTRE
