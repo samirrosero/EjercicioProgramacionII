@@ -9,5 +9,7 @@ Este repositorio contiene los ejercicios de programacion en Java del taller de n
 - Invertir una cadena
 
 ## Valeri Solis y Samir Rosero
-## TECNOLOGIA EN SISTEMAS DE INFORMACION
+
+## Tecnologia en Sistemas de Informacion
+
 ## 4 SEMESTRE
