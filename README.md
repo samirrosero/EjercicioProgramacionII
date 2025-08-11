@@ -12,4 +12,6 @@ Este repositorio contiene los ejercicios de programacion en Java del taller de n
 
 ## Tecnologia en Sistemas de Informacion
 
-## 4 SEMESTRE
+- Cali
+
+## 4 Semestre
