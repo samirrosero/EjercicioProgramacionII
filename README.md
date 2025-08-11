@@ -125,4 +125,3 @@ Es un directorio especial que contiene todos los archivos y el historial de vers
 22. ¿Qué es una variable de entorno y por qué son importantes para Java o la programación?
 - Es una configuración del sistema que el programa usa para funcionar bien (como saber dónde está instalado Java).
 
-## 4 Semestre
