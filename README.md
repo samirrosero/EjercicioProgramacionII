@@ -108,10 +108,10 @@ Es un directorio especial que contiene todos los archivos y el historial de vers
 - Es una forma de programar donde todo se basa en objetos, que tienen datos (atributos) y acciones (métodos).
 
 19. ¿Cuáles son los cuatro pilares de la POO?
-1.	Abstracción: Mostrar lo importante, esconder lo complicado.
-2.	Encapsulamiento: Proteger los datos dentro del objeto.
-3.	Herencia: Reutilizar código de otros objetos.
-4.	Polimorfismo: Usar una misma acción, pero que se comporte diferente según el caso.
+- 1.	Abstracción: Mostrar lo importante, esconder lo complicado.
+- 2.	Encapsulamiento: Proteger los datos dentro del objeto.
+- 3.	Herencia: Reutilizar código de otros objetos.
+- 4.	Polimorfismo: Usar una misma acción, pero que se comporte diferente según el caso.
 
 20. ¿Qué es la herencia en POO y cómo se utiliza en Java?
 - La herencia permite que una clase (hijo) herede cosas de otra (padre).
